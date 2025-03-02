@@ -1,0 +1,101 @@
+From Person,To Person,Type of Data,Permitted or not?
+McMohan,Jenny,Personal,Yes
+Phillips,Jenny,Personal,Yes
+Sunny,Jenny,Personal,Yes
+Tommy,Jenny,Personal,Yes
+Robert,Jenny,Personal,Yes
+Andreas,Jenny,Personal,Yes
+Jenny,Jenny,Personal,Yes
+Katrina,Jenny,Commercial ,No
+McMohan,Katrina,Commercial ,Yes
+Phillips,Katrina,Commercial ,Yes
+Sunny,Katrina,Commercial ,Yes
+Tommy,Katrina,Commercial ,Yes
+Robert,Katrina,Commercial ,Yes
+Andreas,Katrina,Commercial ,Yes
+McMohan,Andreas,Technical,Yes
+Phillips,McMohan,Technical,Yes
+Sunny,McMohan,Technical,No
+Tommy,McMohan,Technical,No
+Robert,McMohan,Technical,No
+Andreas,Phillips,Technical,Yes
+McMohan,Phillips,Technical,Yes
+Phillips,Andreas,Technical,Yes
+Jenny,McMohan,Personal,No
+Jenny,Phillips,Personal,No
+Jenny,Sunny,Personal,No
+Jenny,Tommy,Personal,No
+Jenny,Robert,Personal,No
+Jenny,Andreas,Personal,No
+Jenny,Jenny,Personal,No
+Jenny,Katrina,Personal,No
+Katrina,McMohan,Commercial ,NO
+Katrina,Phillips,Commercial ,NO
+Katrina,Sunny,Commercial ,NO
+Katrina,Tommy,Commercial ,NO
+Katrina,Robert,Commercial ,NO
+Katrina,Andreas,Commercial ,NO
+McMohan,Robert,ALL/ANY,No
+McMohan,Tommy,ALL/ANY,No
+McMohan,Sunny,ALL/ANY,No
+McMohan,John,ALL/ANY,No
+Philips,Robert,ALL/ANY,No
+Philips,Tommy,ALL/ANY,No
+Philips,Sunny,ALL/ANY,No
+Philips,John,ALL/ANY,No
+Andreas,Robert,ALL/ANY,No
+Andreas,Tommy,ALL/ANY,No
+Andreas,Sunny,ALL/ANY,No
+Andreas,John,ALL/ANY,No
+Robert,McMohan,ALL/ANY,No
+Tommy,McMohan,ALL/ANY,No
+Sunny,McMohan,ALL/ANY,No
+John,McMohan,ALL/ANY,No
+Robert,Philips,ALL/ANY,No
+Tommy,Philips,ALL/ANY,No
+Sunny,Philips,ALL/ANY,No
+John,Philips,ALL/ANY,No
+Robert,Andreas,ALL/ANY,No
+Tommy,Andreas,ALL/ANY,No
+Sunny,Andreas,ALL/ANY,No
+John,Andreas,ALL/ANY,No
+John,Sunny,Technical,Yes
+John,Tommy,Technical,Yes
+John,Robert,Technical,Yes
+Sunny,John,Technical,Yes
+Tommy,John,Technical,Yes
+Robert,John,Technical,Yes
+Robert,Tommy,Technical,Yes
+Tommy,Robert,Technical,Yes
+Sunny,Tommy,Technical,Yes
+Tommy,Sunny,Technical,Yes
+McMohan,Andreas,Commercial,Yes
+Phillips,McMohan,Commercial,Yes
+Andreas,Phillips,Commercial,Yes
+McMohan,Phillips,Commercial,Yes
+Phillips,Andreas,Commercial,Yes
+John,Sunny,Commercial,Yes
+John,Tommy,Commercial,Yes
+John,Robert,Commercial,Yes
+Sunny,John,Commercial,Yes
+Tommy,John,Commercial,Yes
+Robert,John,Commercial,Yes
+Robert,Tommy,Commercial,Yes
+Tommy,Robert,Commercial,Yes
+Sunny,Tommy,Commercial,Yes
+Tommy,Sunny,Commercial,Yes
+McMohan,Andreas,Personal,No
+Phillips,McMohan,Personal,No
+Andreas,Phillips,Personal,No
+McMohan,Phillips,Personal,No
+Phillips,Andreas,Personal,No
+John,Sunny,Personal,No
+John,Tommy,Personal,No
+John,Robert,Personal,No
+Sunny,John,Personal,No
+Tommy,John,Personal,No
+Robert,John,Personal,No
+Robert,Tommy,Personal,No
+Tommy,Robert,Personal,No
+Sunny,Tommy,Personal,No
+Tommy,Sunny,Personal,No
